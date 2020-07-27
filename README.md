@@ -10,6 +10,8 @@ Churn is defined as the percentage of customers who's business you lost during a
 
 If you were trying to calculate churn for this data set, the churn percentage can be said to be 26.6% for this time frame. As no dates are available in this data set, we cannot say what time frame this churn rate occured over.
 
+<img href='/figures/churn_yes_no.png' >
+
 <b>The goal of this project is to identify the most predictive features that lead customers to churn and provide business recommendations for how to reduce the number of customers who churn. <b>
 
 I will be using the OSEMN approach in this project, which follows the process outlined below:
